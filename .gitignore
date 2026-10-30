@@ -1,0 +1,33 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Generated data and intermediate outputs
+features/
+dataset/custom_landmarks/
+splits/
+results/test_predictions.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
