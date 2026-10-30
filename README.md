@@ -152,7 +152,3 @@ Training writes model files under `models/` and evaluation outputs under `result
 - Recognition performance can vary with camera quality, lighting, hand position, and gestures that differ from the training examples.
 - The application currently supports the five gestures listed above.
 - Desktop automation is Windows-specific and should not be assumed to work on macOS or Linux.
-
-## License
-
-No license has been specified yet. Add a license file before treating this repository as open source. If you do not intend to grant reuse rights, do not add a permissive license by default.
