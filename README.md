@@ -1,4 +1,4 @@
-# Hand Gesture Detection
+# GestureX — Real-Time Hand Gesture Recognition
 
 A real-time hand gesture recognition application built with **Python, OpenCV, MediaPipe, and scikit-learn**. It detects hand landmarks from a live camera feed, classifies five predefined gestures using a trained Random Forest model, and triggers a corresponding Windows desktop action.
 
